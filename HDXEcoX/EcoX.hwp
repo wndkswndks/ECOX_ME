@@ -3,13 +3,13 @@
 [DATABASE_VERSION]
 "2.8" 
 [PROJECT_DETAILS]
-"eco-x" "C:\my_EcoX\HDXEcoX" "C:\my_EcoX\HDXEcoX\EcoX.hwp" "H8S,H8/300" "Hitachi H8S,H8/300 Standard" "Application" "SX" "H8SX/1544" 
+"eco-x" "C:\source\ECOX_ME\HDXEcoX" "C:\source\ECOX_ME\HDXEcoX\EcoX.hwp" "H8S,H8/300" "Hitachi H8S,H8/300 Standard" "Application" "SX" "H8SX/1544" 
 [INFORMATION]
 "No project information available" 
 [TOOL_CHAIN]
 "Hitachi H8S,H8/300 Standard Toolchain" "6.2.2.0" 
 [CONFIGURATIONS]
-"Release" "C:\my_EcoX\HDXEcoX\Release" 
+"Release" "C:\source\ECOX_ME\HDXEcoX\Release" 
 [BUILD_PHASES]
 "Hitachi H8S,H8/300 Assembler" 1 
 "Hitachi H8S,H8/300 C/C++ Compiler" 1 
@@ -116,37 +116,37 @@
 "Object file" "Hitachi OptLinker" "Hitachi H8S,H8/300 Assembler" 
 "Object file" "Hitachi OptLinker" "Hitachi H8S,H8/300 C/C++ Compiler" 
 [PROJECT_FILES]
-"C:\my_EcoX\HDXEcoX\Debug.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\EcoX.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\capture.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\capture.h" "User" "C header file" 2 
-"C:\my_EcoX\HDXEcoX\cmd_ack.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\command.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\command.h" "User" "C header file" 2 
-"C:\my_EcoX\HDXEcoX\command_canmsg.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\command_canmsg.h" "User" "C header file" 2 
-"C:\my_EcoX\HDXEcoX\command_mode.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\dbsct.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\eeprom.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\eeprom.h" "User" "C header file" 2 
-"C:\my_EcoX\HDXEcoX\four_axis.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\includes.h" "User" "C header file" 2 
-"C:\my_EcoX\HDXEcoX\intprg.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\motor_drive.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\motor_drive.h" "User" "C header file" 2 
-"C:\my_EcoX\HDXEcoX\mp3.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\mp3.h" "User" "C header file" 2 
-"C:\my_EcoX\HDXEcoX\rcan.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\rcan.h" "User" "C header file" 2 
-"C:\my_EcoX\HDXEcoX\resetprg.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\sbrk.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\serial.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\serial.h" "User" "C header file" 2 
-"C:\my_EcoX\HDXEcoX\system.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\system.h" "User" "C header file" 2 
-"C:\my_EcoX\HDXEcoX\test.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\timer.c" "User" "C source file" 2 
-"C:\my_EcoX\HDXEcoX\timer.h" "User" "C header file" 2 
+"C:\source\ECOX_ME\HDXEcoX\Debug.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\EcoX.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\capture.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\capture.h" "User" "C header file" 2 
+"C:\source\ECOX_ME\HDXEcoX\cmd_ack.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\command.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\command.h" "User" "C header file" 2 
+"C:\source\ECOX_ME\HDXEcoX\command_canmsg.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\command_canmsg.h" "User" "C header file" 2 
+"C:\source\ECOX_ME\HDXEcoX\command_mode.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\dbsct.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\eeprom.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\eeprom.h" "User" "C header file" 2 
+"C:\source\ECOX_ME\HDXEcoX\four_axis.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\includes.h" "User" "C header file" 2 
+"C:\source\ECOX_ME\HDXEcoX\intprg.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\motor_drive.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\motor_drive.h" "User" "C header file" 2 
+"C:\source\ECOX_ME\HDXEcoX\mp3.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\mp3.h" "User" "C header file" 2 
+"C:\source\ECOX_ME\HDXEcoX\rcan.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\rcan.h" "User" "C header file" 2 
+"C:\source\ECOX_ME\HDXEcoX\resetprg.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\sbrk.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\serial.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\serial.h" "User" "C header file" 2 
+"C:\source\ECOX_ME\HDXEcoX\system.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\system.h" "User" "C header file" 2 
+"C:\source\ECOX_ME\HDXEcoX\test.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\timer.c" "User" "C source file" 2 
+"C:\source\ECOX_ME\HDXEcoX\timer.h" "User" "C header file" 2 
 [FOLDER]
 "C header file" "C header file" 
 "C source file" "C source file" 
@@ -155,7 +155,7 @@
 [ON_DEMAND_COMPONENTS_LOADED]
 [SYNC_SESSION_NAMES]
 [SESSIONS]
-"DefaultSession" "C:\my_EcoX\HDXEcoX\DefaultSession.hsf" 0 
+"DefaultSession" "C:\source\ECOX_ME\HDXEcoX\DefaultSession.hsf" 0 
 [GENERAL_DATA_SESSION_DefaultSession]
 [OPTIONS_Release_Hitachi H8S,H8/300 Assembler]
 "Assembly source file" "049517904fd45d10" 3 
@@ -163,26 +163,26 @@
 [OPTIONS_Release_Hitachi H8S,H8/300 C/C++ Compiler]
 "C source file" "049517904fd45d10" 2 
 "C++ source file" "049517904fd45d10" 2 
-"C:\my_EcoX\HDXEcoX\Debug.c" "0a9848bbd6826d10" 2 
-"C:\my_EcoX\HDXEcoX\EcoX.c" "0f33457b59f95d10" 2 
-"C:\my_EcoX\HDXEcoX\capture.c" "04cf25b2b1e45d10" 2 
-"C:\my_EcoX\HDXEcoX\cmd_ack.c" "01b66ef900f45d10" 2 
-"C:\my_EcoX\HDXEcoX\command.c" "0ae40acd91e45d10" 2 
-"C:\my_EcoX\HDXEcoX\command_canmsg.c" "0860f1b421e45d10" 2 
-"C:\my_EcoX\HDXEcoX\command_mode.c" "04dd765d2ae45d10" 2 
-"C:\my_EcoX\HDXEcoX\dbsct.c" "049517904fd45d10" 2 
-"C:\my_EcoX\HDXEcoX\eeprom.c" "09a012f6f0e45d10" 2 
-"C:\my_EcoX\HDXEcoX\four_axis.c" "0afe776993e16d10" 2 
-"C:\my_EcoX\HDXEcoX\intprg.c" "049517904fd45d10" 2 
-"C:\my_EcoX\HDXEcoX\motor_drive.c" "07d30eb8b1e45d10" 2 
-"C:\my_EcoX\HDXEcoX\mp3.c" "001dc90c51e45d10" 2 
-"C:\my_EcoX\HDXEcoX\rcan.c" "0f854ac9f0e45d10" 2 
-"C:\my_EcoX\HDXEcoX\resetprg.c" "049517904fd45d10" 2 
-"C:\my_EcoX\HDXEcoX\sbrk.c" "049517904fd45d10" 2 
-"C:\my_EcoX\HDXEcoX\serial.c" "0e9d7da7f0e45d10" 2 
-"C:\my_EcoX\HDXEcoX\system.c" "0f854ac9f0e45d10" 2 
-"C:\my_EcoX\HDXEcoX\test.c" "0ba3595b03626d10" 2 
-"C:\my_EcoX\HDXEcoX\timer.c" "0f854ac9f0e45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\Debug.c" "0a9848bbd6826d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\EcoX.c" "0f33457b59f95d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\capture.c" "04cf25b2b1e45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\cmd_ack.c" "01b66ef900f45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\command.c" "0ae40acd91e45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\command_canmsg.c" "0860f1b421e45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\command_mode.c" "04dd765d2ae45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\dbsct.c" "049517904fd45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\eeprom.c" "09a012f6f0e45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\four_axis.c" "0afe776993e16d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\intprg.c" "049517904fd45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\motor_drive.c" "07d30eb8b1e45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\mp3.c" "001dc90c51e45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\rcan.c" "0f854ac9f0e45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\resetprg.c" "049517904fd45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\sbrk.c" "049517904fd45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\serial.c" "0e9d7da7f0e45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\system.c" "0f854ac9f0e45d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\test.c" "0ba3595b03626d10" 2 
+"C:\source\ECOX_ME\HDXEcoX\timer.c" "0f854ac9f0e45d10" 2 
 [OPTIONS_Release_Hitachi H8S,H8/300 C/C++ Library Generator]
 "Single Shot" "05b7cbde93e16d10" 1 
 [OPTIONS_Release_Hitachi OptLinker]

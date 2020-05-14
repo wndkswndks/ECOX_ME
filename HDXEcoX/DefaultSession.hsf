@@ -53,13 +53,8 @@
 [WINDOW_POSITION_STATE_DATA_VD3]
 [WINDOW_POSITION_STATE_DATA_VD4]
 [WINDOW_Z_ORDER]
-"C:\my_EcoX\HDXEcoX\test.c" 
-"C:\my_EcoX\HDXEcoX\Debug.c" 
-"C:\my_EcoX\HDXEcoX\capture.c" 
-"C:\my_EcoX\HDXEcoX\test.h" 
-"C:\my_EcoX\HDXEcoX\EcoX.c" 
-"C:\my_EcoX\HDXEcoX\system.h" 
-"C:\my_EcoX\HDXEcoX\command_mode.c" 
+"C:\source\ECOX_ME\HDXEcoX\EcoX.c" 
+"C:\source\ECOX_ME\HDXEcoX\command_canmsg.h" 
 [TARGET_NAME]
 "" "" 0 
 [STATUSBAR_STATEINFO_VD1]
