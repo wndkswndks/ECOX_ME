@@ -1,0 +1,27 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"eco-x" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\my_EcoX\HDXEcoX\capture.c" 
+"C:\my_EcoX\HDXEcoX\command_mode.c" 
+"C:\my_EcoX\HDXEcoX\Debug.c" 
+"C:\my_EcoX\HDXEcoX\EcoX.c" 
+"C:\my_EcoX\HDXEcoX\system.h" 
+"C:\my_EcoX\HDXEcoX\test.c" 
+"C:\my_EcoX\HDXEcoX\test.h" 
+[WORKSPACE_FILE_STATES]
+"C:\my_EcoX\HDXEcoX\Debug.c" 0 0 1560 551 0 6 
+"C:\my_EcoX\HDXEcoX\EcoX.c" 26 26 1401 356 0 1 
+"C:\my_EcoX\HDXEcoX\capture.c" 0 0 1560 551 0 5 
+"C:\my_EcoX\HDXEcoX\command_mode.c" 0 0 1573 551 0 2 
+"C:\my_EcoX\HDXEcoX\system.h" 0 0 1573 551 0 0 
+"C:\my_EcoX\HDXEcoX\test.c" -8 -31 1560 551 1 3 
+"C:\my_EcoX\HDXEcoX\test.h" 0 0 1560 551 0 4 
+[LOADED_PROJECTS]
+"eco-x" 
+[END]

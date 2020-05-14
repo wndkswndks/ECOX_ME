@@ -1,0 +1,7 @@
+-cpu=H8SXA:24
+-object="C:\WorkSpace\HDXEcoX\Release\dbsct.obj"
+-nolist
+-chgincpath
+"C:\WorkSpace\HDXEcoX\dbsct.c"
+-lang=c
+-nologo

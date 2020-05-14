@@ -1,0 +1,7 @@
+-cpu=H8SXA:24
+-object="C:\my_EcoX\HDXEcoX\Release\eeprom.obj"
+-nolist
+-chgincpath
+"C:\my_EcoX\HDXEcoX\eeprom.c"
+-lang=c
+-nologo

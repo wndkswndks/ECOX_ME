@@ -1,0 +1,7 @@
+-cpu=H8SXA:24
+-object="C:\WorkSpace\HDXEcoX\Release\resetprg.obj"
+-nolist
+-chgincpath
+"C:\WorkSpace\HDXEcoX\resetprg.c"
+-lang=c
+-nologo

@@ -1,0 +1,209 @@
+h)ศhจจÿ 
+ 
+ 
+ 
+ 
+[rpm_pwon]
+EcoX - EX1_X1_200504_1_pano_4axis 
+
+***   Welcome HDX WILL EcoX   ***
+EcoX-System Rev  = EX1_X1_2004010 
+EcoX-Motor Rev   = MD0_V1_1904230 
+EcoX-ADC Rev     = AD0_V1_2001230 
+EcoX-MP3 Board Rev    = MP3_V0_1408070 
+EcoX-Generator Rev    = W90_V1_1803190 
+******************************************** 
+
+
+** System Initializing **
+
+//-----------------   Print options
+Voice guidance	= KO : Korean 
+Ceph option 	= Scan-Cephalo 
+Debug mode  	= OFF 
+Pano RO end angle = 180 degree 
+CT RO end angle 	= 180 degree 
+Laser on Time 	= 80 sec 
+PA end position 	= Not moving 
+Acturator option 	= Reverse SMPS 
+Generator option 	= ON 
+CO option  	=  4-Axis CO 
+//---------------------------
+HL Positive Direc   OK
+HL 0.1 Unit Pulse   OK
+HL P Max Pulse      OK
+HL N Max Pulse      OK
+HL Accel Step       OK
+HL Start Speed      OK
+HL Max Speed        OK
+HR Positive Direc   OK
+HR 0.1 Unit Pulse   OK
+HR P Max Pulse      OK
+HR N Max Pulse      OK
+HR Accel Step       OK
+HR Start Speed      OK
+HR Max Speed        OK
+VT Positive Direc   OK
+VT 0.1 Unit Pulse   OK
+VT P Max Pulse      OK
+VT N Max Pulse      OK
+VT Accel Step       OK
+VT Start Speed      OK
+VT Max Speed        OK
+VB Positive Direc   OK
+VB 0.1 Unit Pulse   OK
+VB P Max Pulse      OK
+VB N Max Pulse      OK
+VB Accel Step       OK
+VB Start Speed      OK
+VB Max Speed        OK
+SD Positive Direc   OK
+SD 0.1 Unit Pulse   OK
+SD P Max Pulse      OK
+SD N Max Pulse      OK
+SD Accel Step       OK
+SD Start Speed      OK
+SD Max Speed        OK
+//-----  CANMotor Axis is Set!!
+
+Power is Stalbiizing...
+[rpm_gtts_0700]
+[rpm_gtte_2000]
+gen_period : 2000,  gen_on_time : 0700 ~ 2000
+[rpm_tt?__????] 
+[rpm_ibon] 
+
+// Generator Calibration Parameters
+(RSKV0050)(RDDV1385) 
+(RSKV0055)(RDDV1523) 
+(RSKV0060)(RDDV1662) 
+(RSKV0065)(RDDV1800) 
+(RSKV0070)(RDDV1939) 
+(RSKV0075)(RDDV2077) 
+(RSKV0080)(RDDV2216) 
+(RSKV0085)(RDDV2354) 
+(RSKV0090)(RDDV2242) 
+(RSMA0040)(RDVA0516) 
+(RSMA0050)(RDVA0645) 
+(RSMA0060)(RDVA0774) 
+(RSMA0070)(RDVA0903) 
+(RSMA0080)(RDVA0927) 
+(RSMA0090)(RDVA1161) 
+(RSMA0100)(RDVA1290) 
+--------------------------------------// 
+
+
+[rpm_vtmv_0000]   [vt_end] 
+[rpm_hlmv_0000]   [hl_end] 
+[rpm_hrmv_0000]   [hr_end] 
+[rpm_vbmv_0000]   [vb_end] 
+[rpm_sdmv_0000]  [sd_end] 
+[rpm_pamv_0000] [pa_end]
+[rpm_romv_00000]	[ro_end] 
+Msg: RO ADC value at RO origin : 0 degree 
+//------------------------------------ Initialize Machine!
+h)ศhจจÿ 
+ 
+ 
+ 
+ 
+[rpm_pwon]
+EcoX - EX1_X1_200504_1_pano_4axis 
+
+***   Welcome HDX WILL EcoX   ***
+EcoX-System Rev  = EX1_X1_2004010 
+EcoX-Motor Rev   = MD0_V1_1904230 
+EcoX-ADC Rev     = AD0_V1_2001230 
+EcoX-MP3 Board Rev    = MP3_V0_1408070 
+EcoX-Generator Rev    = W90_V1_1803190 
+******************************************** 
+
+
+** System Initializing **
+
+//-----------------   Print options
+Voice guidance	= KO : Korean 
+Ceph option 	= Scan-Cephalo 
+Debug mode  	= OFF 
+Pano RO end angle = 180 degree 
+CT RO end angle 	= 180 degree 
+Laser on Time 	= 80 sec 
+PA end position 	= Not moving 
+Acturator option 	= Reverse SMPS 
+Generator option 	= ON 
+CO option  	=  4-Axis CO 
+//---------------------------
+HL Positive Direc   OK
+HL 0.1 Unit Pulse   OK
+HL P Max Pulse      OK
+HL N Max Pulse      OK
+HL Accel Step       OK
+HL Start Speed      OK
+HL Max Speed        OK
+HR Positive Direc   OK
+HR 0.1 Unit Pulse   OK
+HR P Max Pulse      OK
+HR N Max Pulse      OK
+HR Accel Step       OK
+HR Start Speed      OK
+HR Max Speed        OK
+VT Positive Direc   OK
+VT 0.1 Unit Pulse   OK
+VT P Max Pulse      OK
+VT N Max Pulse      OK
+VT Accel Step       OK
+VT Start Speed      OK
+VT Max Speed        OK
+VB Positive Direc   OK
+VB 0.1 Unit Pulse   OK
+VB P Max Pulse      OK
+VB N Max Pulse      OK
+VB Accel Step       OK
+VB Start Speed      OK
+VB Max Speed        OK
+SD Positive Direc   OK
+SD 0.1 Unit Pulse   OK
+SD P Max Pulse      OK
+SD N Max Pulse      OK
+SD Accel Step       OK
+SD Start Speed      OK
+SD Max Speed        OK
+//-----  CANMotor Axis is Set!!
+
+Power is Stalbiizing...
+[rpm_gtts_0700]
+[rpm_gtte_2000]
+gen_period : 2000,  gen_on_time : 0700 ~ 2000
+[rpm_tt?__????] 
+[rpm_ibon] 
+
+// Generator Calibration Parameters
+(RSKV0050)(RDDV1385) 
+(RSKV0055)(RDDV1523) 
+(RSKV0060)(RDDV1662) 
+(RSKV0065)(RDDV1800) 
+(RSKV0070)(RDDV1939) 
+(RSKV0075)(RDDV2077) 
+(RSKV0080)(RDDV2216) 
+(RSKV0085)(RDDV2354) 
+(RSKV0090)(RDDV2242) 
+(RSMA0040)(RDVA0516) 
+(RSMA0050)(RDVA0645) 
+(RSMA0060)(RDVA0774) 
+(RSMA0070)(RDVA0903) 
+(RSMA0080)(RDVA0927) 
+(RSMA0090)(RDVA1161) 
+(RSMA0100)(RDVA1290) 
+--------------------------------------// 
+
+
+[rpm_vtmv_0000]   [vt_end] 
+[rpm_hlmv_0000]   [hl_end] 
+[rpm_hrmv_0000]   [hr_end] 
+[rpm_vbmv_0000]   [vb_end] 
+[rpm_sdmv_0000]  [sd_end] 
+[rpm_pamv_0000] [pa_end]
+[rpm_romv_00000]	[ro_end] 
+Msg: RO ADC value at RO origin : 0 degree 
+//------------------------------------ Initialize Machine!
+

@@ -1,0 +1,255 @@
+Optimizing Linkage Editor (V.9.05.00.000)         13-May-2020 14:47:46
+
+*** Options ***
+
+-subcommand=C:\my_EcoX\HDXEcoX\Release\eco-x.hlk
+-noprelink
+-nodebug
+-rom=D=R
+-nomessage
+-list="C:\my_EcoX\HDXEcoX\Release\eco-x.map"
+-nooptimize
+-start=PResetPRG,PIntPRG/0400,P,C,C$DSEC,C$BSEC,D/0800,B,R/0FF6000,S/0FFBE00
+-nologo
+-input="C:\my_EcoX\HDXEcoX\Release\capture.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\cmd_ack.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\command.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\command_canmsg.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\command_mode.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\dbsct.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\Debug.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\EcoX.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\eeprom.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\four_axis.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\intprg.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\motor_drive.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\mp3.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\rcan.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\resetprg.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\sbrk.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\serial.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\system.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\test.obj"
+-input="C:\my_EcoX\HDXEcoX\Release\timer.obj"
+-library="C:\my_EcoX\HDXEcoX\Release\eco-x.lib"
+-output="C:\my_EcoX\HDXEcoX\Release\eco-x.abs"
+-end
+
+*** Error information ***
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+
+$VECT0
+                                  00000000  00000003         4   0
+$VECT4
+                                  00000010  00000013         4   0
+$VECT5
+                                  00000014  00000017         4   0
+$VECT7
+                                  0000001c  0000001f         4   0
+$VECT8
+                                  00000020  00000023         4   0
+$VECT9
+                                  00000024  00000027         4   0
+$VECT10
+                                  00000028  0000002b         4   0
+$VECT11
+                                  0000002c  0000002f         4   0
+$VECT12
+                                  00000030  00000033         4   0
+$VECT13
+                                  00000034  00000037         4   0
+$VECT64
+                                  00000100  00000103         4   0
+$VECT65
+                                  00000104  00000107         4   0
+$VECT66
+                                  00000108  0000010b         4   0
+$VECT67
+                                  0000010c  0000010f         4   0
+$VECT68
+                                  00000110  00000113         4   0
+$VECT69
+                                  00000114  00000117         4   0
+$VECT70
+                                  00000118  0000011b         4   0
+$VECT71
+                                  0000011c  0000011f         4   0
+$VECT72
+                                  00000120  00000123         4   0
+$VECT73
+                                  00000124  00000127         4   0
+$VECT74
+                                  00000128  0000012b         4   0
+$VECT75
+                                  0000012c  0000012f         4   0
+$VECT76
+                                  00000130  00000133         4   0
+$VECT77
+                                  00000134  00000137         4   0
+$VECT78
+                                  00000138  0000013b         4   0
+$VECT79
+                                  0000013c  0000013f         4   0
+$VECT81
+                                  00000144  00000147         4   0
+$VECT86
+                                  00000158  0000015b         4   0
+$VECT87
+                                  0000015c  0000015f         4   0
+$VECT88
+                                  00000160  00000163         4   0
+$VECT89
+                                  00000164  00000167         4   0
+$VECT90
+                                  00000168  0000016b         4   0
+$VECT91
+                                  0000016c  0000016f         4   0
+$VECT92
+                                  00000170  00000173         4   0
+$VECT93
+                                  00000174  00000177         4   0
+$VECT94
+                                  00000178  0000017b         4   0
+$VECT95
+                                  0000017c  0000017f         4   0
+$VECT96
+                                  00000180  00000183         4   0
+$VECT97
+                                  00000184  00000187         4   0
+$VECT98
+                                  00000188  0000018b         4   0
+$VECT99
+                                  0000018c  0000018f         4   0
+$VECT100
+                                  00000190  00000193         4   0
+$VECT101
+                                  00000194  00000197         4   0
+$VECT102
+                                  00000198  0000019b         4   0
+$VECT103
+                                  0000019c  0000019f         4   0
+$VECT104
+                                  000001a0  000001a3         4   0
+$VECT105
+                                  000001a4  000001a7         4   0
+$VECT106
+                                  000001a8  000001ab         4   0
+$VECT107
+                                  000001ac  000001af         4   0
+$VECT108
+                                  000001b0  000001b3         4   0
+$VECT109
+                                  000001b4  000001b7         4   0
+$VECT110
+                                  000001b8  000001bb         4   0
+$VECT111
+                                  000001bc  000001bf         4   0
+$VECT112
+                                  000001c0  000001c3         4   0
+$VECT113
+                                  000001c4  000001c7         4   0
+$VECT128
+                                  00000200  00000203         4   0
+$VECT129
+                                  00000204  00000207         4   0
+$VECT130
+                                  00000208  0000020b         4   0
+$VECT131
+                                  0000020c  0000020f         4   0
+$VECT136
+                                  00000220  00000223         4   0
+$VECT137
+                                  00000224  00000227         4   0
+$VECT138
+                                  00000228  0000022b         4   0
+$VECT139
+                                  0000022c  0000022f         4   0
+$VECT144
+                                  00000240  00000243         4   0
+$VECT145
+                                  00000244  00000247         4   0
+$VECT146
+                                  00000248  0000024b         4   0
+$VECT147
+                                  0000024c  0000024f         4   0
+$VECT152
+                                  00000260  00000263         4   0
+$VECT153
+                                  00000264  00000267         4   0
+$VECT154
+                                  00000268  0000026b         4   0
+$VECT155
+                                  0000026c  0000026f         4   0
+$VECT160
+                                  00000280  00000283         4   0
+$VECT161
+                                  00000284  00000287         4   0
+$VECT162
+                                  00000288  0000028b         4   0
+$VECT163
+                                  0000028c  0000028f         4   0
+$VECT192
+                                  00000300  00000303         4   0
+$VECT193
+                                  00000304  00000307         4   0
+$VECT216
+                                  00000360  00000363         4   0
+$VECT218
+                                  00000368  0000036b         4   0
+$VECT220
+                                  00000370  00000373         4   0
+$VECT221
+                                  00000374  00000377         4   0
+$VECT222
+                                  00000378  0000037b         4   0
+$VECT223
+                                  0000037c  0000037f         4   0
+$VECT224
+                                  00000380  00000383         4   0
+$VECT225
+                                  00000384  00000387         4   0
+$VECT226
+                                  00000388  0000038b         4   0
+$VECT228
+                                  00000390  00000393         4   0
+$VECT229
+                                  00000394  00000397         4   0
+$VECT230
+                                  00000398  0000039b         4   0
+$VECT232
+                                  000003a0  000003a3         4   0
+$VECT233
+                                  000003a4  000003a7         4   0
+$VECT234
+                                  000003a8  000003ab         4   0
+$VECT235
+                                  000003ac  000003af         4   0
+$VECT236
+                                  000003b0  000003b3         4   0
+$VECT237
+                                  000003b4  000003b7         4   0
+$VECT238
+                                  000003b8  000003bb         4   0
+PResetPRG
+                                  00000400  00000415        16   2
+PIntPRG
+                                  00000416  000004b7        a2   2
+P
+                                  00000800  000166e3     15ee4   2
+C
+                                  000166e4  00022423      bd40   2
+C$DSEC
+                                  00022424  0002242f         c   2
+C$BSEC
+                                  00022430  00022437         8   2
+D
+                                  00022438  00023a76      163f   2
+B
+                                  00ff6000  00ff759d      159e   2
+R
+                                  00ff759e  00ff8bdc      163f   2
+S
+                                  00ffbe00  00ffbfff       200   2
