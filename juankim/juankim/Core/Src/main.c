@@ -105,11 +105,8 @@ int main(void)
     /* USER CODE BEGIN 3 */
 
 	  data++;
-	  if(data%10==0)
-	  {
-		  HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
-	  }
 
+	  HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
 	  HAL_Delay(100);
   }
   /* USER CODE END 3 */

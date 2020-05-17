@@ -40,8 +40,8 @@ juankim.bin \
 all: juankim.elf secondary-outputs
 
 # Tool invocations
-juankim.elf: $(OBJS) $(USER_OBJS) C:\source\juankim\juankim\STM32F411RETX_FLASH.ld
-	arm-none-eabi-gcc -o "juankim.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\source\juankim\juankim\STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="juankim.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+juankim.elf: $(OBJS) $(USER_OBJS) C:\source\EcoX_wndks\juankim\juankim\STM32F411RETX_FLASH.ld
+	arm-none-eabi-gcc -o "juankim.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\source\EcoX_wndks\juankim\juankim\STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="juankim.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
