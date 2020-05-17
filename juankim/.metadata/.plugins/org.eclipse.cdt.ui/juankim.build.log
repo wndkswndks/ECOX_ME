@@ -1,0 +1,10 @@
+16:27:46 **** Incremental Build of configuration Debug for project juankim ****
+make -j4 all 
+arm-none-eabi-size   juankim.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8460	     20	   1700	  10180	   27c4	juankim.elf
+Finished building: default.size.stdout
+ 
+
+16:27:48 Build Finished. 0 errors, 0 warnings. (took 2s.187ms)
+
