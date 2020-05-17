@@ -1,7 +1,0 @@
--cpu=H8SXA:24
--object="C:\my_EcoX\HDXEcoX\Release\mp3.obj"
--nolist
--chgincpath
-"C:\my_EcoX\HDXEcoX\mp3.c"
--lang=c
--nologo

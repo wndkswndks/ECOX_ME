@@ -1,7 +1,0 @@
--cpu=H8SXA:24
--object="C:\my_EcoX\HDXEcoX\Release\rcan.obj"
--nolist
--chgincpath
-"C:\my_EcoX\HDXEcoX\rcan.c"
--lang=c
--nologo

@@ -1,7 +1,0 @@
--cpu=H8SXA:24
--object="C:\my_EcoX\HDXEcoX\Release\motor_drive.obj"
--nolist
--chgincpath
-"C:\my_EcoX\HDXEcoX\motor_drive.c"
--lang=c
--nologo

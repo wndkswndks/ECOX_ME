@@ -1,3 +1,0 @@
--cpu=H8SXA:24
--output="C:\WorkSpace\HDXEcoX\Release\eco-x.lib"
--head=runtime,new,math,stdarg,stdio,stdlib,string

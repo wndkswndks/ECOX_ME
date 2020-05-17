@@ -1,7 +1,0 @@
--cpu=H8SXA:24
--object="C:\my_EcoX\HDXEcoX\Release\cmd_ack.obj"
--nolist
--chgincpath
-"C:\my_EcoX\HDXEcoX\cmd_ack.c"
--lang=c
--nologo
